@@ -1,1 +1,1 @@
-# dsc-c0-m3-stringops
+# Strings in Data Science: Scenarios and Common Tasks
